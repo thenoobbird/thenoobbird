@@ -1,9 +1,4 @@
-### Hey👋 I'm Sonali Verma
-
-- 🔭 I’m currently working on my programming skills
-- 🌱 I’m currently learning Frontend
-- 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: sonaliverma3000@gmail.com
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+</div>
 
