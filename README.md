@@ -33,3 +33,5 @@
 
 
 ![thenoobbird's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenoobbird&theme=highcontrast&hide_border=true) ![thenoobbird's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenoobbird&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+[![An image of @thenoobbird's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thenoobbird)](https://holopin.io/@thenoobbird)
